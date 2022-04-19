@@ -5,7 +5,7 @@ TOOLS USED
 
 LEX The Lex tool receives at the input a set of user defined patterns that it uses to scan the source code. Each time the source code matches one of the patterns a defined action is executed by Lex (one of the action is that of returning the tokens).
 
-Lex is officially known as a "Lexical Analyzer". It’s main job is to break up an input stream into more into meaningful units, or tokens. For example, consider breaking a text file up into individual words. More pragmatically, Lex is a tool for automatically generating a lexer ( also known as scanner).
+Lex is officially known as a "Lexical Analyzer". It’s main job is to break up an input stream into more into meaningful units, or tokens. For example, consider breaking a text file up into individual words. More pragmatically, Lex is a tool for automatically generating a lexer ( also known as scanner)
 
 YACC
 
